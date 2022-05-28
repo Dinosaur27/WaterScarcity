@@ -1,0 +1,116 @@
+html, body{
+  height: 100%;
+  width: 100%;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #afb2de;
+}
+
+
+
+li a {
+  display: block;
+  color: #014fe9;
+  text-align:center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 27px;
+  float: left;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #a7bbe2;
+  color: white;
+}
+.ws{
+  padding-top: 10px;
+  color: white;
+  margin: 40px 40px;
+  background-color: #1d4086;
+  border: solid;
+  
+}
+.body1{
+  padding-top: 25px;
+  color: white;
+   margin: 40px 40px;
+  background-color: #1d4086;
+  border: solid;
+}
+  
+body{
+background-image:url("background.jpg");
+}
+iframe{
+  border: solid;
+  border-color: #7373e2;
+ 
+}
+.video{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 55px;
+  
+}
+.image{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.P{
+  padding-top: 15px;
+  color: white;
+  margin: 40px 40px;
+  background-color: #1d4086;
+  border: solid;
+  
+}
+.image2{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.C{
+  padding-top: 15px;
+  color: white;
+  margin: 40px 40px;
+  background-color: #1d4086;
+  border: solid;
+}
+.image3{
+   display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 25xp;
+}
+.S{
+ padding-top: 10px;
+ color: white;
+ margin: 40px 40px;
+ background-color: #1d4086;
+ border: solid;
+}
+.About{
+  padding-top: 10px;
+ color: white;
+ margin: 40px 40px;
+ background-color: #1d4086;
+ border: solid;
+}
+
+a{
+  color: white;
+}
+
+.video2{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 25px
+  
+}
